@@ -1,55 +1,44 @@
-<h1 align = "center">Travel Website using HTML & CSS</h1> 
+# Personal Resume Website – CSS Enhancement
 
----  
-<br>  
+## 📌 Project Overview
 
-For more Website Follow Me ➡️ [GitHub](https://github.com/abdul-alim-0)<br><br>  
+This project focuses on enhancing my personal resume website, originally developed during the HTML module, by applying CSS concepts to improve its overall design, layout, and visual appeal.
 
+The objective is to create a visually appealing, well-structured, and user-friendly personal portfolio website using HTML and CSS.
 
-<h1 align="center"> Website Preview </h1>  
+## 🎯 Objectives
 
-### For Live Overview ➡️ [Travel Website](https://abdul-alim-0.github.io/adventure_travel_website/)<br>  
+- Improve the overall appearance and layout of the resume website.
+- Apply appropriate fonts and typography.
+- Maintain a consistent and visually appealing colour palette.
+- Use CSS selectors to organize and manage styling.
+- Improve page structure through display and positioning properties.
+- Enhance readability through proper alignment, spacing, and text formatting.
 
+## 🛠️ Technologies Used
 
-<img src="./website_image/1.png" width="900">
-<img src="./website_image/2.png" width="900">
-<img src="./website_image/3.png" width="900">  
-<img src="./website_image/4.png" width="900">
-<img src="./website_image/5.png" width="900">
-  
+- **HTML5** – Website structure and content.
+- **CSS3** – Styling, layout, typography, and visual enhancements.
+- **GitHub** – Version control and project hosting.
+- **GitHub Pages** – Website deployment.
 
+## ✨ Key Enhancements
 
+The following CSS concepts were implemented:
 
+1. **Typography:** Selected suitable fonts to establish a consistent visual identity.
+2. **Colour Scheme:** Applied a coordinated colour palette throughout the website.
+3. **CSS Selectors:** Used element, class, and ID selectors for organized styling.
+4. **Navigation:** Added a navigation bar for easier website navigation.
+5. **Layout & Positioning:** Used display and positioning properties to structure different sections.
+6. **Feature Sections:** Organized information into structured sections and cards.
+7. **Spacing & Alignment:** Improved margins, padding, alignment, and text formatting.
 
-## Features 📋
-⚡️ Fully Responsive.\
-⚡️ Valid HTML & CSS.\
-⚡️ Smooth scrolling in each section.\
-⚡️ Compatible with all mobile devices and with a beautiful and pleasant user interface.\
-⚡️ Easy to modify.
+## 📂 Project Structure
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `Events & Tours` folder according to your need
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `main` branch.
-
-
-
-## Contributing 💡
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
+```text
+Personal-Resume-Website/
+│
+├── index.html
+├── style.css
+├── images
